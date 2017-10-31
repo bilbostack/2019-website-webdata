@@ -7,6 +7,9 @@
   twitter: https://twitter.com/mariomarin13
   github: ''
   image: /assets/img/14fed4d.jpg
+  talk:
+    title: ""
+    description: ""
 
 -
   slug: angelica-lozano
@@ -17,7 +20,9 @@
   twitter: https://twitter.com/alozalv
   github: ''
   image: /assets/img/1f3b4e0.jpg
-
+  talk:
+    title: ""
+    description: ""
 -
   slug: alvaro-videla
   name: Alvaro Videla
@@ -28,7 +33,9 @@
   twitter: https://twitter.com/old_sound
   github: http://github.com/videlalvaro
   image: /assets/img/2d9204c.jpg
-
+  talk:
+    title: ""
+    description: ""
 -
   slug: diana-aceves
   name: Diana Aceves
@@ -41,7 +48,9 @@
   twitter: https://twitter.com/diana_aceves_
   github: ''
   image: /assets/img/9b55064607e837f5bd3a4a5a8763a725_400x400.jpeg
-
+  talk:
+    title: ""
+    description: ""
 -
   slug: amalia-hernandez
   name: Amalia Hernández
@@ -51,7 +60,9 @@
   twitter: https://twitter.com/amaliahern
   github: ''
   image: /assets/img/234234223234.jpg
-
+  talk:
+    title: ""
+    description: ""
 -
   slug: unai-zorrilla
   name: Unai Zorrilla
@@ -71,7 +82,9 @@
   twitter: https://twitter.com/_unaizc_
   github: ''
   image: /assets/img/wum7n5mh_400x400.jpeg
-
+  talk:
+    title: ""
+    description: ""
 -
   slug: franziska-sauerwein
   name: Franziska Sauerwein
@@ -83,7 +96,9 @@
   twitter: ''
   github: ''
   image: /assets/img/Ka2q9Kgz.jpg
-
+  talk:
+    title: ""
+    description: ""
 -
   slug: carmen-ansio
   name: Carmen Ansio Ruiz
@@ -99,4 +114,6 @@
   twitter: https://twitter.com/carmenansio
   github: https://github.com/carmenansio
   image: /assets/img/NcNv8S1h_400x400.jpg
-
+  talk:
+    title: ""
+    description: ""
