@@ -64,24 +64,22 @@
     title: ""
     description: ""
 -
-  slug: unai-zorrilla
-  name: Unai Zorrilla
-  company: Development Team Leader, Plain Concepts
-  bio: "<p>Lleva cerca de 10 años desarrollando software como consultor independiente y en diversas empresas privadas,
-             realizando las tareas de arquitectura de software bajo plataforma .NET y
-             tocando distintas ramas tecnológicas, desde el desarrollo con dispositivos móviles,
-             entornos web hasta el desarrollo con Windows Forms.</p>
-             <p>Ha sido reconocido con el galardón de Microsoft MVP Compact Framewok,
-   MVP Device Developer, MVP Connected System y MVP de Data Developer,
-   colabora activamente con Microsoft en eventos de formación, talleres de arquitectura y
-   giras de producto así como con la publicación de artículos técnicos en
-   revistas especializadas como MTJ.NET, MSDN Online, DotNetMania etc.</p>
-    <p>Autor de diversos libros sobre tecnología .NET como WF, ADO.NET EF o Arquitecturas DDD.
-       Actualmente trabaja como consultor de gran empresa en Plain Concepts, empresa de la cual es socio fundador</p>"
-  linkedin: https://www.linkedin.com/in/unai-zorrilla-castro-a087038/
-  twitter: https://twitter.com/_unaizc_
+  slug: bea-martin
+  name: Beatriz Martín
+  company: Digital Strategist / Data Strategist / Business Consultant
+  bio: "Aúno en mi perfil: estrategia, gestión y tecnología, desde una visión 100% digital.  Me gusta cuestionarme todo, tener retos y que los planes salgan bien. Soy exigente con la calidad y me mueve la pasión por el trabajo bien hecho.
+
+Estudié Ingeniería Informática en la Universitat Politècnica de Catalunya, un MBA en EAE Business School y el Máster en Big Data Management and Advanced Analytics de la UPC School.
+
+He desarrollado mi carrera profesional en las áreas de TIC, marketing, estrategia y gestión, siempre en entornos digitales.
+
+Soy fan de las metodologías ágiles y de la transformación digital, y soy miembro de las comunidades de aprendizaje: Agile Barcelona, Software Craftsmanship Barcelona y Vailets Hacklab.
+
+Tengo el foco en la estratégica digital/data, big data, transformación digital, cultura del dato, proyectos de datos y educación."
+  linkedin: https://www.linkedin.com/in/beatrizmartin/
+  twitter: https://twitter.com/zigiella
   github: ''
-  image: /assets/img/wum7n5mh_400x400.jpeg
+  image: 
   talk:
     title: ""
     description: ""
