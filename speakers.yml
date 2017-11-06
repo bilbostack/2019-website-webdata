@@ -66,20 +66,16 @@
 -
   slug: bea-martin
   name: Beatriz Martín
-  company: Digital Strategist / Data Strategist / Business Consultant
-  bio: "Aúno en mi perfil: estrategia, gestión y tecnología, desde una visión 100% digital.  Me gusta cuestionarme todo, tener retos y que los planes salgan bien. Soy exigente con la calidad y me mueve la pasión por el trabajo bien hecho.
-
-Estudié Ingeniería Informática en la Universitat Politècnica de Catalunya, un MBA en EAE Business School y el Máster en Big Data Management and Advanced Analytics de la UPC School.
-
-He desarrollado mi carrera profesional en las áreas de TIC, marketing, estrategia y gestión, siempre en entornos digitales.
-
-Soy fan de las metodologías ágiles y de la transformación digital, y soy miembro de las comunidades de aprendizaje: Agile Barcelona, Software Craftsmanship Barcelona y Vailets Hacklab.
-
-Tengo el foco en la estratégica digital/data, big data, transformación digital, cultura del dato, proyectos de datos y educación."
+  company: "Digital Strategist / Data Strategist / Business Consultant"
+  bio: "<p>Aúno en mi perfil: estrategia, gestión y tecnología, desde una visión 100% digital.  Me gusta cuestionarme todo, tener retos y que los planes salgan bien. Soy exigente con la calidad y me mueve la pasión por el trabajo bien hecho.</p>
+        <p>Estudié Ingeniería Informática en la Universitat Politècnica de Catalunya, un MBA en EAE Business School y el Máster en Big Data Management and Advanced Analytics de la UPC School.</p>
+        <p>He desarrollado mi carrera profesional en las áreas de TIC, marketing, estrategia y gestión, siempre en entornos digitales.</p>
+        <p>Soy fan de las metodologías ágiles y de la transformación digital, y soy miembro de las comunidades de aprendizaje: Agile Barcelona, Software Craftsmanship Barcelona y Vailets Hacklab.</p>
+        <p>Tengo el foco en la estratégica digital/data, big data, transformación digital, cultura del dato, proyectos de datos y educación.</p>"
   linkedin: https://www.linkedin.com/in/beatrizmartin/
   twitter: https://twitter.com/zigiella
   github: ''
-  image: 
+  image:  /assets/img/beatrizmartin.jpg
   talk:
     title: ""
     description: ""
