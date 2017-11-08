@@ -8,8 +8,10 @@
   github: ''
   image: /assets/img/14fed4d.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Camino a producción"
+    description: "Se hablará de cómo en PCComponentes, se pasó de unas pocas personas realizaban subidas a producción, hasta el despliegue de varias aplicaciones complejas desarrolladas por varios equipos. Describiremos en detalle la arquitectura, las pruebas y la monitorizacion hasta llegar a producción.
+
+Hablaremos de los problemas que tuvimos, el porqué y el como, el antes y el después. Contaremos nuestra experiencia, como estamos actualmente y hacia donde queremos ir."
 
 -
   slug: angelica-lozano
@@ -21,8 +23,8 @@
   github: ''
   image: /assets/img/1f3b4e0.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Lo que no se VUE"
+    description: "Aprender un nuevo framework no es sólo hacer el tutorial de su web. En esta charla hablaré de Vuejs, pero desde el punto de vista que no suele contar: herramientas de desarrollo y despliegue, buenas prácticas para el trabajo en equipo, lifehacks que te ayuden en el día a día y un par de manías personales."
 -
   slug: alvaro-videla
   name: Alvaro Videla
@@ -49,8 +51,9 @@
   github: ''
   image: /assets/img/9b55064607e837f5bd3a4a5a8763a725_400x400.jpeg
   talk:
-    title: ""
-    description: ""
+    title: "CSS Grid Layout en acción"
+    description: "Veremos como de manera sencilla y con muy poco código, Grid es capaz de solucionarnos layouts que hasta ahora requerían de trucos, posicionamientos incómodos, javascript o muchos quebraderos de cabeza.
+Con código en vivo y en directo, CSS Grid Layout Live!"
 -
   slug: amalia-hernandez
   name: Amalia Hernández
@@ -61,8 +64,9 @@
   github: ''
   image: /assets/img/234234223234.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Aventuras con Agile: retrospectivas"
+    description: "La retrospectiva es la única ceremonia que está contemplada dentro de los principios ágiles. Es el espacio para hablar de las relaciones dentro del equipo, identificar mejoras en los procesos y herramientas, plantear acciones a llevar a cabo en la siguiente iteración siguiendo el precepto "Inspect and Adapt" . 
+Cumplen las retrospectivas la promesa de mejora continua esperada? Seguimos bloqueados en solo generar planes y no en mejoras de funcionamiento?"
 -
   slug: bea-martin
   name: Beatriz Martín
@@ -77,8 +81,8 @@
   github: ''
   image:  /assets/img/beatrizmartin.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Machine Learning, camino a Skynet"
+    description: "Estamos a las puertas de la inteligenciación de todo. El auge del Machine Learning, y que escuchemos hablar de ello en todas partes, es la evidencia práctica del resurgir de la Inteligencia Artificial, que había estado hibernando hasta hoy en películas y laboratorios. La era de la inteligenciación ha empezado a transformarlo todo, y convergirá en pocos años con otras tendencias tecnológicas que hará de este cambio algo radical en todos los ámbitos sociales y económicos. Tenemos que identificar los interrogantes, las oportunidades y también el humo, y ponernos las pilas para ser parte de la ola transformadora."
 -
   slug: franziska-sauerwein
   name: Franziska Sauerwein
@@ -91,8 +95,8 @@
   github: ''
   image: /assets/img/Ka2q9Kgz.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Refactoring Mount Doom - Tackling Legacy Code"
+    description: "A lot of us are familiar with that nightmare where you are trying to get to your destination, and keeping moving, trying different things, but for various reasons, you never arrive. \n Some refactorings are like that - you extract methods, name constants, increase readability… In short, you spend a lot of time cleaning up - but you never get to a good place with the code. In this talk, I will show you how to refactor for the right reasons and the right methods to use your time efficiently. Let’s make working with that code easier in the future."
 -
   slug: carmen-ansio
   name: Carmen Ansio Ruiz
@@ -109,5 +113,5 @@
   github: https://github.com/carmenansio
   image: /assets/img/NcNv8S1h_400x400.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Con canvas y a lo loco"
+    description: "<canvas> es una API que nos da rienda suelta a la imaginación: tratamiento de imagen, jugar con la geometría, físicas, dibujar, efectos, videojuegos, hasta nos abre las puertas a un universo 3D... pero como en todo lo que hacemos, debemos aplicar el sentido común. En esta charla veremos los pros y contras de utilizar <canvas>, algunas librerías que nos facilitan el desarrollo, casos de éxito, así como conocer el concepto 'Responsive Canvas' para conseguir exprimir nuestra creatividad sin impactar en el rendimiento de los dispositivos."
