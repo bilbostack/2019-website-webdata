@@ -36,8 +36,12 @@ Hablaremos de los problemas que tuvimos, el porqué y el como, el antes y el des
   github: http://github.com/videlalvaro
   image: /assets/img/2d9204c.jpg
   talk:
-    title: ""
-    description: ""
+    title: "GOTOs nocivos, optimizaciones prematuras y mitos de la programación son la raíz de todos los males."
+    description: 'A través de los años nuestra industria ha acumulado folklore que conforma lo que somos como industria. Repetimos máximas como "La optimización prematura es la raíz de todo mal" pero quizás ignorando el contexto en el que se dijo esa frase. Esta ignorancia nos ha llevado a crear mitos que a veces hacen más daño que bien.
+
+En esta charla repasaré algunos de esos mitos, veré su origen y al mismo tiempo haré un repaso histórico de lo que ocurría en nuestra industria en los años 70, cuando aparecieron esos mitos.
+
+Como dice el viejo dicho: "Los que no recuerdan el pasado están condenados a repetirlo".'
 -
   slug: diana-aceves
   name: Diana Aceves
