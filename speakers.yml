@@ -8,8 +8,8 @@
   github: ''
   image: /assets/img/14fed4d.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Camino a producción"
+    description: "Se hablará de cómo en PCComponentes, se pasó de unas pocas personas realizaban subidas a producción, hasta el despliegue de varias aplicaciones complejas desarrolladas por varios equipos. Describiremos en detalle la arquitectura, las pruebas y la monitorizacion hasta llegar a producción.<br>Hablaremos de los problemas que tuvimos, el porqué y el como, el antes y el después. Contaremos nuestra experiencia, como estamos actualmente y hacia donde queremos ir."
 
 -
   slug: angelica-lozano
@@ -21,21 +21,24 @@
   github: ''
   image: /assets/img/1f3b4e0.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Lo que no se VUE"
+    description: "Aprender un nuevo framework no es sólo hacer el tutorial de su web. En esta charla hablaré de Vuejs, pero desde el punto de vista que no suele contar: herramientas de desarrollo y despliegue, buenas prácticas para el trabajo en equipo, lifehacks que te ayuden en el día a día y un par de manías personales."
 -
-  slug: alvaro-videla
-  name: Alvaro Videla
-  company: Software developer & "RabbitMQ in Action" co-author
-  bio: "<p>Alvaro Videla works as Lead Architect for a Major Swiss Company.</p>
-  <p>Before he was a Senior Software Engineer at Apple, and previously was a Core Developer for RabbitMQ.</p> <p>Before moving to Europe he used to work in Shanghai where he helped building one of Germany’s biggest dating websites.</p> <p>He co-authored the book “RabbitMQ in Action” for Manning Publishing. Some of his open source projects can be found in his github profile.<br> Apart from code related stuff he likes traveling with his wife, listening/playing music and reading books.</p>"
-  linkedin: https://www.linkedin.com/in/alvarovidela/
-  twitter: https://twitter.com/old_sound
-  github: http://github.com/videlalvaro
-  image: /assets/img/2d9204c.jpg
+  slug: javi-y-rafa
+  name: Javi Ferrer y Rafa Gómez
+  company: Fundadores de Codely.TV
+  bio: "<p>Hola! Somos Javi y Rafa. Hace un par de años empezamos a compartir vídeos sobre aspectos como SOLID, Refactoring, y testing en el canal de Youtube CodelyTV, donde también intentamos hacer divulgación a través de entrevistas a gente del sector.</p>
+        <p>En Septiembre nos animamos a lanzar CodelyTV Pro, donde publicamos cursos sobre Arquitectura, AWS, Android, iOS, JavaScript, Agile... El Netflix de la programación! :D</p>
+        <p>Lo compaginamos con formaciones en empresas, y como profes en un máster de LaSalle.</p>
+        <p>Podemos compartir estas experiencias gracias a la gente que nos hemos cruzado en el camino trabajado en empresas como letgo, Akamon y Uvinum. </p>
+        <p>Nos vemos en la BilboStack y esperamos que te guste la charla!</p>"
+  linkedin: ''
+  twitter: ''
+  github: ''
+  image: /assets/img/jr.png
   talk:
-    title: ""
-    description: ""
+    title: "Evitando el efecto dominó en nuestros [micro]servicios."
+    description: 'Los microservicios están de moda, con sus pros y contras. En esta charla vamos a intentar explicar como aislar cada servicio para que ninguno sea dependiente de otro, y por lo tanto, que si uno se cae los demás no vean alterado su funcionamiento. Para ello, nos apoyaremos en conceptos como los Bounded Contexts de DDD, eventos de dominio, y CQRS.'
 -
   slug: diana-aceves
   name: Diana Aceves
@@ -49,8 +52,8 @@
   github: ''
   image: /assets/img/9b55064607e837f5bd3a4a5a8763a725_400x400.jpeg
   talk:
-    title: ""
-    description: ""
+    title: "CSS Grid Layout en acción"
+    description: "Veremos como de manera sencilla y con muy poco código, Grid es capaz de solucionarnos layouts que hasta ahora requerían de trucos, posicionamientos incómodos, javascript o muchos quebraderos de cabeza.<br>Con código en vivo y en directo, CSS Grid Layout Live!"
 -
   slug: amalia-hernandez
   name: Amalia Hernández
@@ -61,8 +64,8 @@
   github: ''
   image: /assets/img/234234223234.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Aventuras con Agile: retrospectivas"
+    description: "La retrospectiva es la única ceremonia que está contemplada dentro de los principios ágiles. Es el espacio para hablar de las relaciones dentro del equipo, identificar mejoras en los procesos y herramientas, plantear acciones a llevar a cabo en la siguiente iteración siguiendo el precepto 'Inspect and Adapt'.<br>Cumplen las retrospectivas la promesa de mejora continua esperada? Seguimos bloqueados en solo generar planes y no en mejoras de funcionamiento?"
 -
   slug: bea-martin
   name: Beatriz Martín
@@ -77,8 +80,8 @@
   github: ''
   image:  /assets/img/beatrizmartin.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Machine Learning, camino a Skynet"
+    description: "Estamos a las puertas de la inteligenciación de todo. El auge del Machine Learning, y que escuchemos hablar de ello en todas partes, es la evidencia práctica del resurgir de la Inteligencia Artificial, que había estado hibernando hasta hoy en películas y laboratorios. La era de la inteligenciación ha empezado a transformarlo todo, y convergirá en pocos años con otras tendencias tecnológicas que hará de este cambio algo radical en todos los ámbitos sociales y económicos. Tenemos que identificar los interrogantes, las oportunidades y también el humo, y ponernos las pilas para ser parte de la ola transformadora."
 -
   slug: franziska-sauerwein
   name: Franziska Sauerwein
@@ -91,8 +94,8 @@
   github: ''
   image: /assets/img/Ka2q9Kgz.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Refactoring Mount Doom - Tackling Legacy Code"
+    description: "A lot of us are familiar with that nightmare where you are trying to get to your destination, and keeping moving, trying different things, but for various reasons, you never arrive. \n Some refactorings are like that - you extract methods, name constants, increase readability… In short, you spend a lot of time cleaning up - but you never get to a good place with the code. In this talk, I will show you how to refactor for the right reasons and the right methods to use your time efficiently. Let’s make working with that code easier in the future."
 -
   slug: carmen-ansio
   name: Carmen Ansio Ruiz
@@ -109,5 +112,5 @@
   github: https://github.com/carmenansio
   image: /assets/img/NcNv8S1h_400x400.jpg
   talk:
-    title: ""
-    description: ""
+    title: "Con canvas y a lo loco"
+    description: "&lt;canvas&gt; es una API que nos da rienda suelta a la imaginación: tratamiento de imagen, jugar con la geometría, físicas, dibujar, efectos, videojuegos, hasta nos abre las puertas a un universo 3D... pero como en todo lo que hacemos, debemos aplicar el sentido común. En esta charla veremos los pros y contras de utilizar &lt;canvas&gt;, algunas librerías que nos facilitan el desarrollo, casos de éxito, así como conocer el concepto 'Responsive Canvas' para conseguir exprimir nuestra creatividad sin impactar en el rendimiento de los dispositivos."
