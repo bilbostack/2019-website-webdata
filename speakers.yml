@@ -90,7 +90,7 @@
 
         As an active member of the European Software Craft community, they love to participate in unconferences. They co-founded and co-organise Queer Code London, organise European Testing Conference and speak at conferences all over Europe. They love running code retreats, open spaces and workshops."
   linkedin: https://www.linkedin.com/in/franziskasauerwein/
-  twitter: ''
+  twitter: 'Singsalad'
   github: ''
   image: /assets/img/Ka2q9Kgz.jpg
   talk:
@@ -114,3 +114,4 @@
   talk:
     title: "Con canvas y a lo loco"
     description: "&lt;canvas&gt; es una API que nos da rienda suelta a la imaginación: tratamiento de imagen, jugar con la geometría, físicas, dibujar, efectos, videojuegos, hasta nos abre las puertas a un universo 3D... pero como en todo lo que hacemos, debemos aplicar el sentido común. En esta charla veremos los pros y contras de utilizar &lt;canvas&gt;, algunas librerías que nos facilitan el desarrollo, casos de éxito, así como conocer el concepto 'Responsive Canvas' para conseguir exprimir nuestra creatividad sin impactar en el rendimiento de los dispositivos."
+
