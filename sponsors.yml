@@ -1,8 +1,18 @@
--
-  name: Plain Concepts
+- name: Plain Concepts
   link: https://www.plainconcepts.com?_cr=bilbostack
-  img:  /assets/img/plain-logo.png
--
-  name: Comalatech
+  img: /assets/img/plain-logo.png
+- name: Comalatech
   link: https://comalatech.com/?utm_source=bilbostack&utm_medium=banner&utm_campaign=bilbostack18
-  img:  /assets/img/Comalatech.png
+  img: /assets/img/comalatech.png
+- name: ThoughtWorks
+  link: https://www.thoughtworks.com/es/about-us
+  img: /assets/img/tw-logo.png
+- name: Infojobs
+  link: https://www.infojobs.net/
+  img: /assets/img/infojobs-logo.png
+- name: Lookiero
+  link: https://lookiero.es/
+  img: /assets/img/lookiero-logo.png
+- name: Beaz
+  link: https://beaz.bizkaia.eus
+  img: /assets/img/beaz-logo.png
