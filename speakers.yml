@@ -1,12 +1,13 @@
 -
-  slug: ""
-  name: ""
+  slug: "edu-ferro"
+  name: "Eduardo Ferro"
   company: "" 
   bio: ""
   linkedin: ""
-  twitter: ""
-  github: ""
-  image: ""
+  twitter: "eferro"
+  github: "https://www.eferro.net"
+  image: "/assets/img/2019-edu.jpg"
   talk:
-    title: ""
-    description: ""
+    title: "Devops is not what you think"
+    description: "Seguramente alguien os haya contado que Devops es un rol, o un equipo, o incluso peor… el nombre moderno para los administradores de sistemas. Lo que seguramente no os hayan contado es que Devops es un movimiento, una cultura y una serie de practicas que incluyendo las ideas de Agile, las amplian y modernizan adaptandolas a los tiempos actuales (SaaS, Cloud, etc). Devops es la piedra ángular de todos las empresas tecnologicas de alto rendimiento y lo que les permite tener una buena frequencia de despliegue manteniendo la disponibilidad del sistema. En esta charla describiremos la cultura (colaboración, confianza, aprendizaje continuo, etc.), las prácticas (incluir requisitos operacionales en el producto, automatización, Continuous Delivery, Infrastructure as Code, You Build It, You Run It, etc...), y daremos ideas de como introducirla (The Three Ways, Hiring, Incident Reports, Optimizar el Mean Ttime To Recovery, etc). Hablaremos de la importancia de la arquitectura, del desarrollo de software ágil y de distintas organizaciones de equipos que favorecen este tipo de cultura."
+    
