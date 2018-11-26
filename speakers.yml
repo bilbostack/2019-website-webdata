@@ -9,7 +9,7 @@
   image: "/assets/img/2019-edu.jpg"
   talk:
     title: "Devops is not what you think"
-    description: "Seguramente alguien os haya contado que Devops es un rol, o un equipo, o incluso peor… el nombre moderno para los administradores de sistemas. Lo que seguramente no os hayan contado es que Devops es un movimiento, una cultura y una serie de practicas que incluyendo las ideas de Agile, las amplian y modernizan adaptandolas a los tiempos actuales (SaaS, Cloud, etc). Devops es la piedra ángular de todos las empresas tecnologicas de alto rendimiento y lo que les permite tener una buena frequencia de despliegue manteniendo la disponibilidad del sistema. En esta charla describiremos la cultura (colaboración, confianza, aprendizaje continuo, etc.), las prácticas (incluir requisitos operacionales en el producto, automatización, Continuous Delivery, Infrastructure as Code, You Build It, You Run It, etc...), y daremos ideas de como introducirla (The Three Ways, Hiring, Incident Reports, Optimizar el Mean Ttime To Recovery, etc). Hablaremos de la importancia de la arquitectura, del desarrollo de software ágil y de distintas organizaciones de equipos que favorecen este tipo de cultura."
+    description: "<p>Seguramente alguien os haya contado que Devops es un rol, o un equipo, o incluso peor… el nombre moderno para los administradores de sistemas.</p><p>Lo que seguramente no os hayan contado es que Devops es un movimiento, una cultura y una serie de practicas que incluyendo las ideas de Agile, las amplian y modernizan adaptandolas a los tiempos actuales (SaaS, Cloud, etc).</p><p>Devops es la piedra ángular de todos las empresas tecnologicas de alto rendimiento y lo que les permite tener una buena frequencia de despliegue manteniendo la disponibilidad del sistema.</p><p>En esta charla describiremos la cultura (colaboración, confianza, aprendizaje continuo, etc.), las prácticas (incluir requisitos operacionales en el producto, automatización, Continuous Delivery, Infrastructure as Code, You Build It, You Run It, etc...), y daremos ideas de como introducirla (The Three Ways, Hiring, Incident Reports, Optimizar el Mean Ttime To Recovery, etc). Hablaremos de la importancia de la arquitectura, del desarrollo de software ágil y de distintas organizaciones de equipos que favorecen este tipo de cultura.</p>"
 
 - slug: "belen-albeza"
   name: "Belén Albeza"
@@ -27,8 +27,7 @@
 - slug: "virginia-aguirre"
   name: "Virginia Aguirre"
   company: ""
-  bio: ""
-  #  bio: "UX & Brand Designer - Coordinadora de Uxer School<br>Licenciada en Publicidad y Relaciones públicas (UPV-EHU), 18 años trabajando en varias empresas del sector de las nuevas tecnologías como Hispavista, Facilnet, Panda Security, Arista, Ticketbis desarrollando diferentes puestos desde el diseño y la maquetación, pasando por la consultoría UX y Usabilidad, hasta la gestión de equipo y puesta en marcha de nuevas áreas de negocio.<br>Experiencia en proyectos a lo largo de su recorrido profesional con clientes como Nestlé, Repsol YPF, Gobierno Vasco, UPV-EHU, Guggenheim, Caja Laboral, Orona, Cinfa, Ulma Construcción, Euskaltel, Bellota Agrisolutions, etc<br>Formadora en Enpresa Digitala (Spri – GV), Cebanc (Centro homologado GV), UPV/EHU (Cursos de verano), Mondragon Unibertsitatea (MU)"
+  bio: "<p>UX & Brand Designer - Coordinadora de Uxer School</p><p>Licenciada en Publicidad y Relaciones públicas (UPV-EHU), 18 años trabajando en varias empresas del sector de las nuevas tecnologías como Hispavista, Facilnet, Panda Security, Arista, Ticketbis desarrollando diferentes puestos desde el diseño y la maquetación, pasando por la consultoría UX y Usabilidad, hasta la gestión de equipo y puesta en marcha de nuevas áreas de negocio.</p><p>Experiencia en proyectos a lo largo de su recorrido profesional con clientes como Nestlé, Repsol YPF, Gobierno Vasco, UPV-EHU, Guggenheim, Caja Laboral, Orona, Cinfa, Ulma Construcción, Euskaltel, Bellota Agrisolutions, etc.</p><p>Formadora en Enpresa Digitala (Spri – GV), Cebanc (Centro homologado GV), UPV/EHU (Cursos de verano), Mondragon Unibertsitatea (MU)</p>"
   linkedin: "www.linkedin.com/in/virginiaaguirre"
   twitter: "https://twitter.com/ladybenko"
   github: ""
@@ -36,12 +35,12 @@
   image: "/assets/img/2019-virginia.jpg"
   talk:
     title: "UX para desarrolladores front y back"
-    description: "La experiencia de usuario de un producto o servicio digital es responsabilidad de todo el equipo de desarrollo y no solamente de los 'uxers'. Muchos proyectos arrancan por la tecnología que se va usar y por ello haremos hincapié en la necesidad actual de poner el foco en el usuario y no en la tecnología si queremos construir productos útiles, deseables y usables. Veremos en qué consiste el proceso de Diseño Centrado en el usuario y cómo integrarlo en los procesos de desarrollo más tradicionales."
+    description: "<p>La experiencia de usuario de un producto o servicio digital es responsabilidad de todo el equipo de desarrollo y no solamente de los 'uxers'.</p><p>Muchos proyectos arrancan por la tecnología que se va usar y por ello haremos hincapié en la necesidad actual de poner el foco en el usuario y no en la tecnología si queremos construir productos útiles, deseables y usables.</p><p>Veremos en qué consiste el proceso de Diseño Centrado en el usuario y cómo integrarlo en los procesos de desarrollo más tradicionales.</p>"
 
 - slug: "ricardo-borillo"
   name: "Ricardo Borillo"
   company: ""
-  bio: ""
+  bio: "<p>Llevo desarrollando aplicaciones ricas desde hace más de 15 años, sin dejar además pasar la oportunidad de impartir formaciones y charlas alrededor de JavaScript y de su ecosistema.</p><p>Mi principal objetivo es dar a conocer el lenguaje y sus herramientas desde una perspectiva ágil, centrada en la calidad del código y en poder aplicar de forma sencilla técnicas consideradas más avanzadas como testing y/o refactoring.</p><p>Actualmente imparto en empresas una curso llamado Agile JavaScript. Por otra parte, enseño refactoring en Agile@Work, genero contenidos en Programmer@Work y GenBeta Dev y organizo decharlas.com.</p>"
   linkedin: "http://linkedin.com/in/borillo"
   twitter: "https://twitter.com/borillo"
   github: ""
@@ -49,7 +48,7 @@
   image: "/assets/img/2019-ricardo.jpg"
   talk:
     title: "Agile JavaScript"
-    description: "En el mundo del desarrollo JavaScript, encontrar un flow estable y medianamente fácil de asimilar por nuestro equipo puede suponer todo un reto. Un posible factor de éxito puede radicar en nuestra capacidad para alinear este entorno con nuestros valores de crafter pata negra: Testing, pair programming, continuous delivery, design patterns ... En 'Agile JavaScript' intentaremos hacer explícitos estos valores con el fin de que sean ellos los que nos ayuden a elegir el conjunto de prácticas y tecnologías que nos conviene adoptar. Una manera distinta de viajar por el estado actual y futuro del ecosistema JavaScript y no caer en la 'JavaScript fatigue'."
+    description: "<p>En el mundo del desarrollo JavaScript, encontrar un flow estable y medianamente fácil de asimilar por nuestro equipo puede suponer todo un reto.</p><p>Un posible factor de éxito puede radicar en nuestra capacidad para alinear este entorno con nuestros valores de crafter pata negra: Testing, pair programming, continuous delivery, design patterns...</p><p>En 'Agile JavaScript' intentaremos hacer explícitos estos valores con el fin de que sean ellos los que nos ayuden a elegir el conjunto de prácticas y tecnologías que nos conviene adoptar. Una manera distinta de viajar por el estado actual y futuro del ecosistema JavaScript y no caer en la 'JavaScript fatigue'.</p>"
 
 - slug: "ines-huertas"
   name: "Inés Huertas"
@@ -75,7 +74,7 @@
   image: "/assets/img/2019-jose.jpg"
   talk:
     title: "Kubernetes is not a deployment tool: it's a platform"
-    description: "Kubernetes se ha convertido poco a poco el standard del mercado para desplegar aplicaciones tanto en cloud como en datacenters tradicionales. Esto es así gracias a su potente API y sus primitivas que nos permiten describir el ciclo de vida del software. ¿Pero es Kubernetes la pieza final del puzzle? ¿Debemos utilizar esas primitivas directamente para nuestros deploys? En esta charla veremos cómo podemos extender la funcionalidad base de Kubernetes para adecuarla a nuestras necesidades, y cómo esa extensibilidad está haciendo que grandes compañías estén creando nuevas herramientas usando Kubernetes como plataforma."
+    description: "<p>Kubernetes se ha convertido poco a poco el standard del mercado para desplegar aplicaciones tanto en cloud como en datacenters tradicionales. Esto es así gracias a su potente API y sus primitivas que nos permiten describir el ciclo de vida del software. ¿Pero es Kubernetes la pieza final del puzzle? ¿Debemos utilizar esas primitivas directamente para nuestros deploys?</p><p>En esta charla veremos cómo podemos extender la funcionalidad base de Kubernetes para adecuarla a nuestras necesidades, y cómo esa extensibilidad está haciendo que grandes compañías estén creando nuevas herramientas usando Kubernetes como plataforma.</p>"
 
 - slug: "cristina-santamarina"
   name: "Cristina Santamarina"
