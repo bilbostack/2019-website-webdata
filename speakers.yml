@@ -100,7 +100,7 @@
   name: "Dani Latorre"
   company: ""
   company_web: ""
-  bio: ""
+  bio: "<p>Me gusta hacer productos de software, el trabajo en equipo y estar continuamente aprendiendo. Tratando de involucrarme lo posible en cuestiones de negocio, conceptualización y construcción. Actualmente trabajo como Tech Lead dentro de Zara.com. Mi trabajo es, a partir de los objetivos de negocio y la visión de producto, acompañar a mis equipos en hacer el mejor software del que seamos capaces.</p><p>Anteriormente formé parte Coding Stones y trabajé bastantes años como desarrollador independiente; en esos años estuve desarrollando software, haciendo consultoría, formación... para startups, multinacionales, empresas de servicios y alguna administración pública.</p><p>Como persona enfocada en intentar diseñar software bien y mejorar en mis prácticas, estoy interesado en cuestiones relacionadas con Domain Driven Design y Extreme Programming; así como en conocer e informarme acerca de otras disciplinas relacionadas con la creación de productos digitales.</p>"
   linkedin: "https://www.linkedin.com/in/danilat/"
   twitter: "https://twitter.com/dani_latorre"
   github: ""
@@ -108,4 +108,4 @@
   image: "/assets/img/2019-dani.jpg"
   talk:
     title: "Diseño incremental de software a partir de las interacciones"
-    description: "Hablaremos de diseñar software a partir de las especificaciones que definen el comportamiento de un sistema, y como dejamos que vaya emergiendo el diseño de un modo 'outside-in' partiendo siempre de las interacciones."
+    description: "<p>Hablaremos de diseñar software a partir de las especificaciones que definen el comportamiento de un producto.</p><p>Veremos cómo dejar que vaya emergiendo el diseño de un modo 'outside-in' partiendo siempre de las interacciones; dejando que sea flexible y acepte cambios con relativa facilidad, ayudándonos además a posponer decisiones. Para mi la mejor estrategia para facilitar el hacer desarrollo iterativo e incremental que he encontrado hasta el momento.</p><p>También veremos cómo definir las especificaciones de forma efectiva para aumentar la calidad del producto, evitar retrabajo e incrementar la colaboración entre miembros del equipo.</p>"
