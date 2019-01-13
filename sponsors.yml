@@ -1,6 +1,32 @@
-
-# -
-#   name: Plain Concepts
-#   link: https://www.plainconcepts.com?_cr=bilbostack
-#   img:  /assets/img/plain-logo.png
-
+- name: Plain Concepts
+  link: https://www.plainconcepts.com?_cr=bilbostack
+  img: /assets/img/plain-logo.png
+- name: Comalatech
+  link: https://comalatech.com/?utm_source=bilbostack&utm_medium=banner&utm_campaign=bilbostack18
+  img: /assets/img/comalatech.png
+- name: ThoughtWorks
+  link: https://www.thoughtworks.com/es/about-us
+  img: /assets/img/tw-logo.png
+- name: Infojobs
+  link: https://www.infojobs.net/
+  img: /assets/img/infojobs-logo.png
+- name: Lookiero
+  link: http://techjobs.lookiero.com  
+  img: /assets/img/lookiero_tech_logo.png
+- name: Beaz
+  link: https://beaz.bizkaia.eus/index.php?option=com_content&view=article&id=63&Itemid=242&lang=es-es
+  img: /assets/img/beaz-logo.png
+  featured: 1
+- name: Bilbao Ekintza
+  link: http://www.bilbao.eus/BilbaoEkintza/es/index.html
+  img: /assets/img/bilbaoEkintzaLogo.png
+  featured: 1
+- name: Zara
+  link: https://www.zara.com
+  img: /assets/img/zara.svg
+- name: Everis
+  link: https://www.everis.com
+  img: /assets/img/everisLogo.png
+- name: Punto Uno
+  link: http://www.puntouno.es
+  img: /assets/img/logo-puntouno.png
